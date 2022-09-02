@@ -8,4 +8,4 @@ En la Figura 1 se muestran los elementos principales del Sistema.
 
 _Figura 1. Pantalla principal de la calculadora._
 
-Descarga [aquí](https://github.com/chavezbosquez/calculadora-menus/blob/main/CalculadoraMenus.zip).
+Descarga [aquí](https://github.com/chavezbosquez/calculadora-menus/raw/main/CalculadoraMenus.zip).
